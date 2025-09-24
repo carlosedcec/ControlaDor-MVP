@@ -5,10 +5,10 @@ MVP da Sprint 2 (Gestão Ágil de Projetos e Produtos) da Pós-Graduação em En
 O ControlaDor é um sistema para controle de sintomas de pessoas que sofrem com doenças ou condições crônicas de saúde.
 
 ### Vídeo de Apresentação
-(https://youtu.be/aZcuqpiKApE)
+https://youtu.be/aZcuqpiKApE
 
 ### Link do Miro
-(https://miro.com/app/board/uXjVJPEZAOw=/)
+https://miro.com/app/board/uXjVJPEZAOw=/
 
 ### Link do Figma
-(https://www.figma.com/design/472MofdhApXDvQzWzUSHBT/ControlaDor?node-id=12-14&t=Xrh6uQy909iLIvtD-1)
+https://www.figma.com/design/472MofdhApXDvQzWzUSHBT/ControlaDor?node-id=12-14&t=Xrh6uQy909iLIvtD-1
